@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # Sum function
+=======
+>>>>>>> e09dbf49b766da514374b3768a68c454db219029
 def calculate_sum(a, b):
     answer = a + b
     return answer
